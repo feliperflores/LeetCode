@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "test": "mocha",
-    "test:twoSum": "npm test ./twoSum/test/"
+    "test:twoSum": "npm test ./twoSum/test/",
+    "test:binarySearch": "npm test ./binarySearch/test/"
   },
   "directories": {
     "test": "test"
