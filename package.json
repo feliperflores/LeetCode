@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha",
+    "test:twoSum": "npm test ./twoSum/test/"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  },
+  "dependencies": {
+    "chai": "^5.0.3"
+  }
+}
